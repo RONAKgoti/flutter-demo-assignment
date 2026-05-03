@@ -1,16 +1,20 @@
-# flutter_demo
+# Flutter Installation Assignment
 
-A new Flutter project.
+## Completed Tasks
 
-## Getting Started
+- Installed Flutter SDK
+- Checked flutter doctor successfully
+- Created flutter_demo project
+- Opened project in Android Studio
+- Ran app successfully on emulator
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### Flutter Doctor
+![Doctor](Screenshot 2026-05-03 103433.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Project Open in Android Studio
+![Project](Screenshot 2026-05-03 103521.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### App Running on Emulator
+![Emulator](Screenshot 2026-05-03 103938.png)
